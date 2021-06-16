@@ -1,5 +1,5 @@
 <!-- CONTACT Section Starts -->
-### CONTACT
+## CONTACT
 
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
@@ -12,16 +12,14 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-
-# add image
-![alt text]
+![alt text](https://github.com/johnsontech235/Johnson/raw/main/Zoom_BG4_Bright-Office-jpg.jpeg)
 
 <!-- Add your details -->
 
-I am __XXX__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __XXX__, a __seasoned__ data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
-<!-- Add link to the sections -->
+<!-- Add link to the sections , navigating to other sections on the same page-->
 [Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
